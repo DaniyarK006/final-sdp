@@ -3,11 +3,14 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/java/dev" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/java/patterns" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main" />
+      <sourceFolder url="file://$MODULE_DIR$/out/production/final-sdp/com/restaurant/system/model" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/out/production/final-sdp/com/restaurant/system/patterns" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/out/production/final-sdp/com/restaurant/system/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/out/production/final-sdp/com/restaurant/system/src/main/java/dev" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/out/production/final-sdp/com/restaurant/system/src/main/java/patterns" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/out/production/final-sdp/com/restaurant/system/src/main" />
     </content>
+    <content url="file://$MODULE_DIR$/out" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
